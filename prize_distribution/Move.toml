@@ -1,5 +1,5 @@
 [package]
-name = "distribution"
+name = "prize_distribution"
 version = "1.0.0"
 
 [addresses]

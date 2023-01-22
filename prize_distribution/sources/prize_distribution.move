@@ -1,5 +1,5 @@
 /// this module provides the foundation for Overmind's prize distribution
-module overmind::distribution {
+module overmind::prize_distribution {
     use std::error;
     use std::signer;
     use std::string::{String, bytes};
